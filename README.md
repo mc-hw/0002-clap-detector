@@ -17,5 +17,5 @@ The circuit should be assembled on a double-sided, SMT printed circuit board.
 ## Running
 
 The device should be powered with 6-10DCV. It was intended to be powered from 6F22 9V battery connected to J1 connector.
-The circuit after detecting a clap, switches LED1 diode on and off. Additionally, it enables/disables K1 relay. A device
+The circuit after detecting a clap, switches D1 diode on and off. Additionally, it enables/disables K1 relay. A device
 of max 230V/1000W can be enabled/disabled using J2 connector. 
