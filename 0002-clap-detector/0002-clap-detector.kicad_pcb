@@ -9168,7 +9168,7 @@
 		)
 	)
 	(gr_text "${GH_REPO}"
-		(at 129 115 0)
+		(at 128.4 115 0)
 		(layer "F.SilkS")
 		(uuid "3ed5bf8f-3466-40fe-9a39-d811b30edb7a")
 		(effects
