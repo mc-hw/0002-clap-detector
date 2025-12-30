@@ -12,7 +12,9 @@ This circuit is a copy of [AVT-721/2](./AVT721_2.pdf) converted to Surface Mount
 
 The circuit should be assembled on a double-sided, SMT printed circuit board.
 
-<img src="images/pcb.png" alt="PCB layout" style="width:600px;"/>
+<img src="images/pcb_front.png" alt="PCB front layout" style="width:600px;"/>
+
+<img src="images/pcb_back.png" alt="PCB back layout" style="width:600px;"/>
 
 ## Running
 
