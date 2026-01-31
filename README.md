@@ -27,7 +27,7 @@ of max 230V/1000W can be enabled/disabled using J2 connector.
 | Reference      | Qty | Value           | Package           |
 |----------------|-----|-----------------|-------------------|
 | C1,C2,C3,C4    | 4   | 100n            | 0805              |
-| C5             | 1   | 100u            | 0805              |
+| C5             | 1   | 100u            | 2312              |
 | D1             | 1   | GREEN           | 0805              |
 | D2             | 1   | RED             | 0805              |
 | D3             | 1   | 1N4148          | SOD-323           |
