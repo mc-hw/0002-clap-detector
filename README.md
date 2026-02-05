@@ -27,7 +27,7 @@ of max 230V/1000W can be enabled/disabled using J2 connector.
 | Reference      | Qty | Value           | Package           |
 |----------------|-----|-----------------|-------------------|
 | C1,C2,C3,C4    | 4   | 100n            | 0805              |
-| C5             | 1   | 100u            | 0805              |
+| C5             | 1   | 100u            | 2312              |
 | D1             | 1   | GREEN           | 0805              |
 | D2             | 1   | RED             | 0805              |
 | D3             | 1   | 1N4148          | SOD-323           |
@@ -44,3 +44,12 @@ of max 230V/1000W can be enabled/disabled using J2 connector.
 | R9             | 1   | 1k              | 0805              |
 | R10            | 1   | 4,7k            | 0805              |
 | U1             | 1   | 4017            | SOP-16            |
+
+## Implementation
+
+# Solder mask
+
+The amount of solder mask should not be to thin, distributing with plastic card should not be necessary,
+pressure with plexi glass should be enough to distribute it.
+The stensil was printed ink-down, twice. Light exposure was performed through a stencil only, no glass on top.
+Each corner was exposed for 30 minutes, long edges for 15 minutes, center for 15 minutes.
