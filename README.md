@@ -51,5 +51,5 @@ of max 230V/1000W can be enabled/disabled using J2 connector.
 
 The amount of solder mask should not be to thin, distributing with plastic card should not be necessary,
 pressure with plexi glass should be enough to distribute it.
-The stensil was printed ink-down, twice. Light exposure was performed through a stencil only, no glass on top.
-Each corner was exposed for 30 minutes, long edges for 15 minutes, center for 15 minutes.
+The stencil was printed ink-down, twice. Light exposure was performed through a stencil only, no glass on top.
+Each corner was exposed for 40 minutes, long edges for 25 minutes, two central points for 15 minutes each.
